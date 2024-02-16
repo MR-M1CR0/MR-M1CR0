@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mahfouz</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mahfouz!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Egypt</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on ITI Scholarship<br>🌱 I’m currently learning Angular, .NET Framework<br>💬 Ask me about HTML, CSS, JS<br>👨‍💻 All of my projects are available at github.com/MR-M1CR0<br>📫 How to reach me ahmedmahfouz098@gmail.com<br>⚡ Fun fact I think I am funny
