@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MR-M1CR0.MR-M1CR0&left_color=black&right_color=crimson&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20Views"  />
   <br clear="both">
   <br>
-  <img height="500" src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47trg6zr262t3q3kq9mskdk5vbi0ekb3wiiuibwmj2&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img width="100vw" src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47trg6zr262t3q3kq9mskdk5vbi0ekb3wiiuibwmj2&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mahfouz!;" />
