@@ -1,7 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MR-M1CR0.MR-M1CR0&left_color=black&right_color=red"  />
 
-###
-
 <div align="center">
   <br clear="both">
 
